@@ -27,6 +27,9 @@ for (let key in fantasyChar) {
         case 'lotr':
             message.push(`${fantasyChar[key][charOption]}`)
             break
+        case 'ascii':
+            message.push(`${fantasyChar[key][charOption]}`)
+            break
         default:
             message.push('Error: Need more info.')
     }
