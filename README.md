@@ -17,8 +17,8 @@ This script is made for the mixed messages project within the Codecademy Full St
 
 ### Technologies used
 
-JavaScript
-Node - v14.17.5
+- JavaScript
+- Node - v14.17.5
 
 ### Setup
 
