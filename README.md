@@ -34,4 +34,4 @@ Codecademy example code
 
 ### Contact
 
-Created by @jkellerman[(https://www.jkellerman.pl/)] - feel free to contact me!
+Created by [@jkellerman](https://github.com/jkellerman) - feel free to contact me!
